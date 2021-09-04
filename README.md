@@ -1,5 +1,7 @@
 # .NET_Wiki_CenterControl
-Center a control by another control as reference. 
+(written by Matti 'Getschonnik' W.)
+
+* Center a control by another control as reference. 
 
 ' To center a label, textbox or another control. 
 
