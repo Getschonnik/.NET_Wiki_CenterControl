@@ -1,5 +1,5 @@
 # .NET_Wiki_CenterControl
-(written by Matti 'Getschonnik' W.)
+(written by Getschonnik)
 
 * Center a control by another control as reference. 
 
